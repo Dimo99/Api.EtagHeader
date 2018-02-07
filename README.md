@@ -1,2 +1,2 @@
 # Api.EtagHeader
-Small project to etagheader to your asp.net core mvc
+Small project to add etagheader to your asp.net core mvc
